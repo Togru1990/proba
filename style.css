@@ -1,0 +1,16 @@
+body {
+  background: orange;
+}
+
+.article_background_container { background: white; margin:0 auto; width: 1250px;  border-radius: 10px; }   
+
+
+.article_about_age_pic_for_preschooler {position: relative;}
+.article_about_age_pic_for_schooler {position: relative;}
+.article_about_age_pic_for_adults {position: relative;}
+
+h2 { position : absolute;
+  top   : 220px;
+  left    : 40px;
+  width   : 100%; }
+    
